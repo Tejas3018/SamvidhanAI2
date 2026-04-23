@@ -1,0 +1,49 @@
+project_id = "ahdqgkketfmgnbyzlddc"
+
+[functions.emergency-1975]
+verify_jwt = false
+
+[functions.escape-room]
+verify_jwt = false
+
+[functions.ai-debate]
+verify_jwt = false
+
+[functions.case-law-detective]
+verify_jwt = false
+
+[functions.constitution-chat]
+verify_jwt = false
+
+[functions.constitutional-courtroom]
+verify_jwt = false
+
+[functions.generate-questions]
+verify_jwt = false
+
+[functions.youtube-search]
+verify_jwt = false
+
+[functions.voice-to-text]
+verify_jwt = false
+
+[functions.text-to-speech]
+verify_jwt = false
+
+[functions.explain-amendment]
+verify_jwt = false
+
+[functions.explain-topic]
+verify_jwt = false
+
+[functions.rights-hotline]
+verify_jwt = false
+
+[functions.voter-impact-simulator]
+verify_jwt = false
+
+[functions.courtroom-cross-examination]
+verify_jwt = false
+
+[functions.translate-questions]
+verify_jwt = false
